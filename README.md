@@ -13,33 +13,33 @@ persisted.
 
 ## Prerequisites
 
--   [An Introduction to Relational Databases](https://git.generalassemb.ly/ga-wdi-boston/sql)
--   [Rails API Overview](https://git.generalassemb.ly/ga-wdi-boston/rails-api)
+- [An Introduction to Relational Databases](https://git.generalassemb.ly/ga-wdi-boston/sql)
+- [Rails API Overview](https://git.generalassemb.ly/ga-wdi-boston/rails-api)
 
 ## Objectives
 
 By the end of this, developers should be able to:
 
--   Explain the value of an ORM in developing an application.
--   Name model files and classes according to Rails's naming conventions.
--   Reference basic CRUD operations in ActiveRecord using the Rails
+- Explain the value of an ORM in developing an application.
+- Name model files and classes according to Rails's naming conventions.
+- Reference basic CRUD operations in ActiveRecord using the Rails
     documentation.
 
 ## Instructions
 
-1.  Fork and clone this repository.
-1.  Change into the new directory.
-1.  Create and checkout a new branch, named `response`.
-1.  Follow the directions given in [`study.md`](study.md).
-1.  When finished, push to your fork and submit a pull request.
+1. Fork and clone this repository.
+1. Change into the new directory.
+1. Create and checkout a new branch, named `response`.
+1. Follow the directions given in [`study.md`](study.md).
+1. When finished, push to your fork and submit a pull request.
 
 You may wish to refer to [FAQs](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki)
 related to [forking,
-cloning](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/ForkAndClone), and [pull
-requests](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/PullRequest).
+cloning](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/ForkAndClone), and
+[pull requests](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/PullRequest).
 
 ## [License](LICENSE)
 
-1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
-1.  All software code is licensed under GNU GPLv3. For commercial use or
+1. All content is licensed under a CC­BY­NC­SA 4.0 license.
+1. All software code is licensed under GNU GPLv3. For commercial use or
     alternative licensing, please contact legal@ga.co.

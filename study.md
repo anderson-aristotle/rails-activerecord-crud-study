@@ -10,12 +10,13 @@ material. Instead, digest what you've read and repeat it in your own voice.
 
 ## Required Readings
 
--   [Active Record Basics — Ruby on Rails Guides](http://guides.rubyonrails.org/active_record_basics.html)
+- [Active Record Basics — Ruby on Rails Guides](http://guides.rubyonrails.org/active_record_basics.html)
     (up to and including chapter 6)
 
 ## Additional Resources
--   [ActiveRecord::Base](http://api.rubyonrails.org/classes/ActiveRecord/Base.html)
--   [Object-relational mapping - Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
+
+- [ActiveRecord::Base](http://api.rubyonrails.org/classes/ActiveRecord/Base.html)
+- [Object-relational mapping - Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
 
 ## Explain Why an ORM Is Valuable
 
