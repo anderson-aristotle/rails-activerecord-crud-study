@@ -11,11 +11,6 @@ ActiveRecord is a part of Rails and is used in the model layer. It allows us to
 use Ruby to manipulate objects without worrying about how those objects are
 persisted.
 
-## Prerequisites
-
-- [An Introduction to Relational Databases](https://git.generalassemb.ly/ga-wdi-boston/sql)
-- [Rails API Overview](https://git.generalassemb.ly/ga-wdi-boston/rails-api)
-
 ## Objectives
 
 By the end of this, developers should be able to:
